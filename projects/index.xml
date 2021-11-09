@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hello Friend</title>
+    
+    
+    
+    <link>/projects/</link>
+    <description>Recent content in Projects on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project One : Web Portfolio</title>
+      <link>/projects/project-one/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/project-one/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A web-based portfolio to showcase a developer&#39;s skill, built using Hugo and Golang.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Project Two : Web Portfolio</title>
+      <link>/projects/project-two/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/project-two/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A web-based portfolio to showcase a developer&#39;s skill, built using Hugo and Golang.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
