@@ -35,6 +35,26 @@
     </item>
     
     <item>
+      <title>Project Three : Web Portfolio</title>
+      <link>/projects/project-three/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/project-three/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A web-based portfolio to showcase a developer&#39;s skill, built using Hugo and Golang.
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Project Two : Web Portfolio</title>
       <link>/projects/project-two/</link>
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
