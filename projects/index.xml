@@ -9,17 +9,17 @@
     <description>Recent content in Projects on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project One : Web Portfolio</title>
-      <link>/projects/project-one/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Project Three : Web Portfolio</title>
+      <link>/projects/project-three/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/projects/project-one/</guid>
+      <guid>/projects/project-three/</guid>
       <description>
         
           
@@ -35,11 +35,11 @@
     </item>
     
     <item>
-      <title>Project Three : Web Portfolio</title>
-      <link>/projects/project-three/</link>
+      <title>Project One : Web Portfolio</title>
+      <link>/projects/project-one/</link>
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/projects/project-three/</guid>
+      <guid>/projects/project-one/</guid>
       <description>
         
           

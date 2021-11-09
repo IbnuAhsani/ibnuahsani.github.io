@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+    <loc>/tags/golang/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/project-three/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/web-app/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,37 +43,12 @@
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/projects/project-one/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/project-three/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/projects/project-two/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/web-app/</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url>
   
